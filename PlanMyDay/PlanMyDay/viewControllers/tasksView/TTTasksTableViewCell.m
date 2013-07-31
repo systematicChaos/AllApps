@@ -24,7 +24,8 @@
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 {
-    //added new new changes by torasike!!!
+    //by torasike
+    //added by testest web
     //added new changes by me
     //added changes by testest1!
     //add changes
