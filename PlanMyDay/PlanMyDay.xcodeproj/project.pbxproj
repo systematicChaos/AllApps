@@ -14,7 +14,6 @@
 		DD7BAE4017A5BE4400CACFB2 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = DD7BAE3A17A5BE4400CACFB2 /* background.png */; };
 		DD7BAE4117A5BE4400CACFB2 /* ckeck_cell_icons.png in Resources */ = {isa = PBXBuildFile; fileRef = DD7BAE3B17A5BE4400CACFB2 /* ckeck_cell_icons.png */; };
 		DD7BAE4217A5BE4400CACFB2 /* delete_cell_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DD7BAE3C17A5BE4400CACFB2 /* delete_cell_icon.png */; };
-		DD7BAE4317A5BE4400CACFB2 /* one_task_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD7BAE3D17A5BE4400CACFB2 /* one_task_back@2x.png */; };
 		DD7BAE4417A5BE4400CACFB2 /* task_icons.png in Resources */ = {isa = PBXBuildFile; fileRef = DD7BAE3E17A5BE4400CACFB2 /* task_icons.png */; };
 		DD7BAE4517A5BE4400CACFB2 /* TTTasksTableViewCell.png in Resources */ = {isa = PBXBuildFile; fileRef = DD7BAE3F17A5BE4400CACFB2 /* TTTasksTableViewCell.png */; };
 		DD7BAE4D17A5C24600CACFB2 /* TTCustomTrackerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD7BAE4B17A5C24600CACFB2 /* TTCustomTrackerViewController.m */; };
@@ -56,7 +55,6 @@
 		DD7BAE3A17A5BE4400CACFB2 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		DD7BAE3B17A5BE4400CACFB2 /* ckeck_cell_icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ckeck_cell_icons.png; sourceTree = "<group>"; };
 		DD7BAE3C17A5BE4400CACFB2 /* delete_cell_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = delete_cell_icon.png; sourceTree = "<group>"; };
-		DD7BAE3D17A5BE4400CACFB2 /* one_task_back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "one_task_back@2x.png"; sourceTree = "<group>"; };
 		DD7BAE3E17A5BE4400CACFB2 /* task_icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = task_icons.png; sourceTree = "<group>"; };
 		DD7BAE3F17A5BE4400CACFB2 /* TTTasksTableViewCell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TTTasksTableViewCell.png; sourceTree = "<group>"; };
 		DD7BAE4A17A5C24600CACFB2 /* TTCustomTrackerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TTCustomTrackerViewController.h; path = viewControllers/customTracker/TTCustomTrackerViewController.h; sourceTree = "<group>"; };
@@ -132,7 +130,6 @@
 				DD7BAE3A17A5BE4400CACFB2 /* background.png */,
 				DD7BAE3B17A5BE4400CACFB2 /* ckeck_cell_icons.png */,
 				DD7BAE3C17A5BE4400CACFB2 /* delete_cell_icon.png */,
-				DD7BAE3D17A5BE4400CACFB2 /* one_task_back@2x.png */,
 				DD7BAE3E17A5BE4400CACFB2 /* task_icons.png */,
 				DD7BAE3F17A5BE4400CACFB2 /* TTTasksTableViewCell.png */,
 			);
@@ -374,7 +371,6 @@
 				DD7BAE4017A5BE4400CACFB2 /* background.png in Resources */,
 				DD7BAE4117A5BE4400CACFB2 /* ckeck_cell_icons.png in Resources */,
 				DD7BAE4217A5BE4400CACFB2 /* delete_cell_icon.png in Resources */,
-				DD7BAE4317A5BE4400CACFB2 /* one_task_back@2x.png in Resources */,
 				DD7BAE4417A5BE4400CACFB2 /* task_icons.png in Resources */,
 				DD7BAE4517A5BE4400CACFB2 /* TTTasksTableViewCell.png in Resources */,
 				DD7BAE4E17A5C24600CACFB2 /* TTCustomTrackerViewController.xib in Resources */,

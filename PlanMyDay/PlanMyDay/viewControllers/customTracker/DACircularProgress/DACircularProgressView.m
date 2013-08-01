@@ -103,8 +103,7 @@
     [appearance setBackgroundColor:[UIColor clearColor]];
     [appearance setThicknessRatio:0.04f];
     [appearance setRoundedCorners:NO];
-    
-    [appearance setIndeterminateDuration:2.0f];
+   // [appearance setIndeterminateDuration:2.0f];
     [appearance setIndeterminate:NO];
 }
 
